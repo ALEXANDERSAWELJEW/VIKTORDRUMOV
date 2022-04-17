@@ -1,0 +1,589 @@
+#EXTM3U
+#EXTINF:0,УКРАИНА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/1011/index.m3u8
+#EXTINF:0,ИНТЕР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/937/index.m3u8
+#EXTINF:0,НОВИЙ КАНАЛ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/6340/index.m3u8
+#EXTINF:0,СТБ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/6304/index.m3u8
+#EXTINF:0,ICTV
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/6302/index.m3u8
+#EXTINF:0,РЕПОРТЕР
+#EXTGRP:unsorted
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:0,ДУМСКАЯ ТВ
+#EXTGRP:unsorted
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:0,1+1
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/994/index.m3u8
+#EXTINF:0,НТН
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/936/index.m3u8
+#EXTINF:0,ПЕРШИЙ НЕЗАЛЕЖНИЙ
+#EXTGRP:unsorted
+http://live.pnk.tv/hls/pnk/hd.m3u8
+#EXTINF:0,НАШ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/15259/index.m3u8
+#EXTINF:0,ПЕРВЫЙ КАНАЛ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/204/index.m3u8
+#EXTINF:0,РОССИЯ 1
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/205/index.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/213/index.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2024/index.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:unsorted
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
+#EXTINF:0,ЗВЕЗДА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/544/index.m3u8
+#EXTINF:0,СТС
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/6303/index.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/237/index.m3u8
+#EXTINF:0,Ю ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/534/index.m3u8
+#EXTINF:0,ЧЕ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/513/index.m3u8
+#EXTINF:0,ТВ-3
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/5033/index.m3u8
+#EXTINF:0,TLC
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/232/index.m3u8
+#EXTINF:0,360
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2065/index.m3u8
+#EXTINF:0,EURONEWS
+#EXTGRP:unsorted
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:0,МОСКВА 24
+#EXTGRP:unsorted
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:0,РОССИЯ 24
+#EXTGRP:unsorted
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTINF:0,МИР 24
+#EXTGRP:unsorted
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,БЕЛАРУСЬ 24
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/1061/index.m3u8
+#EXTINF:0,ПЯТНИЦА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/5031/index.m3u8
+#EXTINF:0,МОЯ ПЛАНЕТА
+#EXTGRP:unsorted
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0,ТЕЛЕПУТЕШЕСТВИЯ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2051/index.m3u8
+#EXTINF:0,OCEAN TV
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/703/index.m3u8
+#EXTINF:0,МОРСКОЙ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/742/index.m3u8
+#EXTINF:0,ЗОО ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2100/index.m3u8
+#EXTINF:0,ZOOПАРК
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/731/index.m3u8
+#EXTINF:0,В МИРЕ ЖИВОТНЫХ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2089/index.m3u8
+#EXTINF:0,ДОМАШНИЕ ЖИВОТНЫЕ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/158/index.m3u8
+#EXTINF:0,ANIMAL PLANET
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/137/index.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/140/index.m3u8
+#EXTINF:0,DISCOVERY SCIENCE
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/136/index.m3u8
+#EXTINF:0,HISTORY
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/837/index.m3u8
+#EXTINF:0,H2
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/1052/index.m3u8
+#EXTINF:0,TRAVEL CHANNEL
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/130/index.m3u8
+#EXTINF:0,TRAVEL+ADVENTURE
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/850/index.m3u8
+#EXTINF:0,HGTV 
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/6391/index.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/134/index.m3u8
+#EXTINF:0,NAT GEO WILD
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/133/index.m3u8
+#EXTINF:0,VIASAT HISTORY
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/162/index.m3u8
+#EXTINF:0,VIASAT NATURE
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/161/index.m3u8
+#EXTINF:0,RTG
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/210/index.m3u8
+#EXTINF:0,ИСТОРИЯ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/111/index.m3u8
+#EXTINF:0,КТО ЕСТЬ КТО
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2042/index.m3u8
+#EXTINF:0,ЗВЕЗДА ПЛЮС
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/10059/index.m3u8
+#EXTINF:0,НАУКА 2.0
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/118/index.m3u8
+#EXTINF:0,ПЕРВЫЙ КОСМИЧЕСКИЙ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/908/index.m3u8
+#EXTINF:0,GALAXY TV
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2010/index.m3u8
+#EXTINF:0,БОБЕР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/725/index.m3u8
+#EXTINF:0,УСАДЬБА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/532/index.m3u8
+#EXTINF:0,ТРОФЕЙ
+#EXTGRP:unsorted
+http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_w1068339373_b878000_slukr.m3u8
+#EXTINF:0,ОХОТА И РЫБАЛКА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2019/index.m3u8
+#EXTINF:0,ОХОТНИК И РЫБОЛОВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/917/index.m3u8
+#EXTINF:0,ДИКАЯ РЫБАЛКА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2005/index.m3u8
+#EXTINF:0,ДИАЛОГИ О РЫБАЛКЕ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2394/index.m3u8
+#EXTINF:0,ДИКАЯ ОХОТА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2004/index.m3u8
+#EXTINF:0,АВТО ПЛЮС
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/151/index.m3u8
+#EXTINF:0,АВТО 24
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/538/index.m3u8
+#EXTINF:0,ДРАЙВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2021/index.m3u8
+#EXTINF:0,М1
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/6334/index.m3u8
+#EXTINF:0,М2
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/6335/index.m3u8
+#EXTINF:0,EUROPA PLUS TV
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/115/index.m3u8
+#EXTINF:0,1HD MUSIK TV
+#EXTGRP:unsorted
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:0,BRIDGE TV
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/122/index.m3u8
+#EXTINF:0,BRIDGE TV HITS
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/711/index.m3u8
+#EXTINF:0,BRIDGE TV РУССКИЙ ХИТ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/120/index.m3u8
+#EXTINF:0,BRIDGE TV ШЛЯГЕР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/10038/index.m3u8
+#EXTINF:0,MTV
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/142/index.m3u8
+#EXTINF:0,MTV HITS
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/153/index.m3u8
+#EXTINF:0,MTV 80S
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/724/index.m3u8
+#EXTINF:0,MTV 90S
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/1038/index.m3u8
+#EXTINF:0,MTV 00S
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/536/index.m3u8
+#EXTINF:0,4EVER MUSIC
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/970/index.m3u8
+#EXTINF:0,ЛЯ-МИНОР.ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2043/index.m3u8
+#EXTINF:0,RU TV
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/838/index.m3u8
+#EXTINF:0,МУЗ ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/116/index.m3u8
+#EXTINF:0,ШАНСОН ТВ
+#EXTGRP:unsorted
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:0,ПОБЕДА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2003/index.m3u8
+#EXTINF:0,АРСЕНАЛ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/5044/index.m3u8
+#EXTINF:0,ДЕНЬ ПОБЕДЫ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/5054/index.m3u8
+#EXTINF:0,VF НАША ПОБЕДА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/10083/index.m3u8
+#EXTINF:0,VICTORY HD
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11097/index.m3u8
+#EXTINF:0,KBC-ВОВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11072/index.m3u8
+#EXTINF:0,VF ВОЕННЫЕ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/10082/index.m3u8
+#EXTINF:0,РОДНОЕ КИНО
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/126/index.m3u8
+#EXTINF:0,ЛЮБИМОЕ  КИНО
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/722/index.m3u8
+#EXTINF:0,ДОМ КИНО
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/154/index.m3u8
+#EXTINF:0,МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/7347/index.m3u8
+#EXTINF:0,VF МОСФИЛЬМ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/10084/index.m3u8
+#EXTINF:0,VF ФИЛЬМЫ СССР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/10085/index.m3u8
+#EXTINF:0,YOSSO TV СОВЕТСКИЕ ФИЛЬМЫ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14175/index.m3u8
+#EXTINF:0,BCU СССР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11026/index.m3u8
+#EXTINF:0,КИНОЗАЛ!СССР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11061/index.m3u8
+#EXTINF:0,USSR
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11102/index.m3u8
+#EXTINF:0,DOSUG СССР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14218/index.m3u8
+#EXTINF:0,KBC-СТРАНА СССР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11091/index.m3u8
+#EXTINF:0,TOP USSR HD
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/13005/index.m3u8
+#EXTINF:0,YOSSO TV РУССКИЕ ФИЛЬМЫ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14174/index.m3u8
+#EXTINF:0,ДОМ КИНО ПРЕМИУМ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/911/index.m3u8
+#EXTINF:0,НАШЕ НОВОЕ КИНО
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/517/index.m3u8
+#EXTINF:0,РУССКАЯ КОМЕДИЯ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/733/index.m3u8
+#EXTINF:0,РУССКИЙ БЕСТСЕЛЛЕР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/905/index.m3u8
+#EXTINF:0,РУССКИЙ РОМАН
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/906/index.m3u8
+#EXTINF:0,РУССКИЙ ДЕТЕКТИВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/907/index.m3u8
+#EXTINF:0,РУССКИЙ ИЛЛЮЗИОН
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/547/index.m3u8
+#EXTINF:0,МИР СЕРИАЛА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/856/index.m3u8
+#EXTINF:0,ЕВРОКИНО
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/549/index.m3u8
+#EXTINF:0,КИНО ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/732/index.m3u8
+#EXTINF:0,TV1000
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/132/index.m3u8
+#EXTINF:0,TV 1000 ACTION
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/131/index.m3u8
+#EXTINF:0,TV 1000 WORLD KINO
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/1065/index.m3u8
+#EXTINF:0,TV1000 РУССКОЕ КИНО
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/101/index.m3u8
+#EXTINF:0,КИНОСАТ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2121/index.m3u8
+#EXTINF:0,КИНОПРЕМЬЕРА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/224/index.m3u8
+#EXTINF:0,КИНОХИТ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/516/index.m3u8
+#EXTINF:0,КИНОМИКС
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/509/index.m3u8
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/125/index.m3u8
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/145/index.m3u8
+#EXTINF:0,КИНОСЕРИЯ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/148/index.m3u8
+#EXTINF:0,КИНОСВИДАНИЕ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/728/index.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/164/index.m3u8
+#EXTINF:0,ОСТРОСЮЖЕТНОЕ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/904/index.m3u8
+#EXTINF:0,BCU CATASTROPHE HD
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11028/index.m3u8
+#EXTINF:0,VF КАТАСТРОФЫ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/10080/index.m3u8
+#EXTINF:0,ШОКИРУЮЩЕЕ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/6299/index.m3u8
+#EXTINF:0,КИНОУЖАС
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2056/index.m3u8
+#EXTINF:0,НСТ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/726/index.m3u8
+#EXTINF:0,HOLLYWOOD
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/557/index.m3u8
+#EXTINF:0,VIP PREMIERE
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/202/index.m3u8
+#EXTINF:0,VIP COMEDY
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/200/index.m3u8
+#EXTINF:0,VIP MEGAHIT
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/201/index.m3u8
+#EXTINF:0,NICKELODEON
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/541/index.m3u8
+#EXTINF:0,NICKELODEON Jr
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/114/index.m3u8
+#EXTINF:0,GULLI
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/109/index.m3u8
+#EXTINF:0,JIMJAM
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/138/index.m3u8
+#EXTINF:0,O!
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/727/index.m3u8
+#EXTINF:0,BOOMERANG
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/723/index.m3u8
+#EXTINF:0,МАЛЫШ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/1041/index.m3u8
+#EXTINF:0,МУЛЬТ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/909/index.m3u8
+#EXTINF:0,DISNEY CHANNEL
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/524/index.m3u8
+#EXTINF:0,УНИКУМ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/730/index.m3u8
+#EXTINF:0,КАРУСЕЛЬ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/156/index.m3u8
+#EXTINF:0,МУЛЬТМУЗЫКА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/749/index.m3u8
+#EXTINF:0,СМАЙЛИК ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2157/index.m3u8
+#EXTINF:0,BTV ОГГИ И ТАРАКАНЫ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14069/index.m3u8
+#EXTINF:0,ВЕСЕЛАЯ КАРУСЕЛЬ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11057/index.m3u8
+#EXTINF:0,МИНИМАКС-USSR-МУЛЬТФИЛЬМ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/13020/index.m3u8
+#EXTINF:0,KBC-СОЮЗМУЛЬТZAL
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11090/index.m3u8
+#EXTINF:0,СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14151/index.m3u8
+#EXTINF:0,BTV Мультфильмы СССР -1
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14018/index.m3u8
+#EXTINF:0,BTV Мультфильмы СССР -3
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14024/index.m3u8
+#EXTINF:0,VF МУЛЬТФИЛЬМЫ СССР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/10086/index.m3u8
+#EXTINF:0,YOSSO TV СОЮЗМУЛЬТ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14178/index.m3u8
+#EXTINF:0,BTV НУ ПОГОДИ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14046/index.m3u8
+#EXTINF:0,BTV БАРБОСКИНЫ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14072/index.m3u8
+#EXTINF:0,BTV МАША И МЕДВЕДЬ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14047/index.m3u8
+#EXTINF:0,BTV ФИКСИКИ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14000/index.m3u8
+#EXTINF:0,МИНИМАКС-МИ-МИ-МИШКИ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/13043/index.m3u8
+#EXTINF:0,UZ МАЛЮТКА ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/13072/index.m3u8
+#EXTINF:0,UZ МУЛЬТЗАЛ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/13066/index.m3u8
+#EXTINF:0,YOSSO TV KIDS
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14173/index.m3u8
+#EXTINF:0,BCU KIDS
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11035/index.m3u8
+#EXTINF:0,DOSUG KIDS
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14214/index.m3u8
+#EXTINF:0,BTV DREAMWORKS HD
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14091/index.m3u8
+#EXTINF:0,BTV ВИННИ-ПУХ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14068/index.m3u8
+#EXTINF:0,BTV РУСАЛОЧКА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14002/index.m3u8
+#EXTINF:0,BTV АЛЛАДИН
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14022/index.m3u8
+#EXTINF:0,BTV УТИНЫЕ ИСТОРИИ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14123/index.m3u8
+#EXTINF:0,BTV ЧИП И ДЕЙЛ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14019/index.m3u8
+#EXTINF:0,BTV ГУФИ И ЕГО КОМАНДА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14071/index.m3u8
+#EXTINF:0,BTV ЧУДЕСА НА ВИРАЖАХ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14088/index.m3u8
+#EXTINF:0,BTV Приключения мишек Гамми
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14073/index.m3u8
+#EXTINF:0,BTV ТИМОН И ПУМБА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14021/index.m3u8
+#EXTINF:0,BTV ТОМ И ДЖЕРРИ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/14004/index.m3u8
+#EXTINF:0,ДЕТСКИЙ МИР
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/543/index.m3u8
+#EXTINF:0,В ГОСТЯХ У СКАЗКИ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/737/index.m3u8
+#EXTINF:0,ЕРАЛАШ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/11058/index.m3u8
+#EXTINF:0,EUROSPORT 1
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/228/index.m3u8
+#EXTINF:0,EUROSPORT 2
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/234/index.m3u8
+#EXTINF:0,ФУТБОЛ 1
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/222/index.m3u8
+#EXTINF:0,ФУТБОЛ 2
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/211/index.m3u8
+#EXTINF:0,ФУТБОЛ 3
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/206/index.m3u8
+#EXTINF:0,ФУТБОЛ 1 УКРАИНА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/1109/index.m3u8
+#EXTINF:0,ФУТБОЛ 2 УКРАИНА
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/1110/index.m3u8
+#EXTINF:0,БОКС ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/870/index.m3u8
+#EXTINF:0,КХЛ ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/519/index.m3u8
+#EXTINF:0,МОТОСПОРТ.ТВ
+#EXTGRP:unsorted
+http://zozulman.otttv.pw/iptv/93VZQ7WGVNZ9TQ/2145/index.m3u8
